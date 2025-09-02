@@ -176,6 +176,7 @@ DOMAIN-SUFFIX,paperswithcode.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,box.com
@@ -257,7 +258,6 @@ DOMAIN-SUFFIX,keepass.info
 DOMAIN-SUFFIX,veracrypt.fr
 DOMAIN-SUFFIX,syncthing.net
 DOMAIN-SUFFIX,rsync.samba.org
-DOMAIN-SUFFIX,aria2.github.io
 DOMAIN-SUFFIX,transmissionbt.com
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,deluge-torrent.org
