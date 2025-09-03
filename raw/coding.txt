@@ -70,7 +70,7 @@ DOMAIN-SUFFIX,aur.archlinux.org
 DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,flathub.org
 DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,gitlab.com
