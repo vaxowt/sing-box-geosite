@@ -268,3 +268,4 @@ DOMAIN-SUFFIX,remmina.org
 DOMAIN-SUFFIX,tigervnc.org
 DOMAIN-SUFFIX,tightvnc.com
 DOMAIN-SUFFIX,teamviewer.com
+DOMAIN-SUFFIX,tailscale.com
