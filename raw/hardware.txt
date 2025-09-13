@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,synopsys.com
 DOMAIN-SUFFIX,ltspice.com
 DOMAIN-SUFFIX,ultraedit.com
 DOMAIN-SUFFIX,circuitlab.com
+DOMAIN-SUFFIX,fabrice-salvaire.fr # pyspice
 
 # 仪器仪表
 DOMAIN-SUFFIX,keysight.com
