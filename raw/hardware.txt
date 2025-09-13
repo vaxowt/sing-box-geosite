@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,cadence.com
 DOMAIN-SUFFIX,synopsys.com
 DOMAIN-SUFFIX,ltspice.com
 DOMAIN-SUFFIX,ultraedit.com
+DOMAIN-SUFFIX,circuitlab.com
 
 # 仪器仪表
 DOMAIN-SUFFIX,keysight.com
