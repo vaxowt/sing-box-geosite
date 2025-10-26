@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ti.com"
+      ]
+    }
+  ],
+  "version": 1
+}
