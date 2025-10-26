@@ -1,1 +1,1 @@
-ti.com
+DOMAIN-SUFFIX,ti.com
