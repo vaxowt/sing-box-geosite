@@ -269,3 +269,4 @@ DOMAIN-SUFFIX,tigervnc.org
 DOMAIN-SUFFIX,tightvnc.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,pling.com
