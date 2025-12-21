@@ -134,6 +134,9 @@ DOMAIN-SUFFIX,dev.to
 DOMAIN-SUFFIX,hashnode.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,slack.com
